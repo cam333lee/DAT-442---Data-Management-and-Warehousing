@@ -4,6 +4,8 @@ This class focused on gaining a basic understanding of data management and wareh
 
 In this repository is a Final Project where I created a data warehouse for golfers who were in the NACC Conference for collegiate women's golf. 
 
+***(Uploaded as Word document report)***
+
 For Part 1:
   * Outline/Goal of project
   * Requirements needed to implement for database
